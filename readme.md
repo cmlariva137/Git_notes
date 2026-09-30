@@ -8,6 +8,7 @@ git checkout -b <branchName> (Creating new branches)
 git checkout <branchName> (Switching between existing branches)
 git status
 git merge <branchName>
+git tag -a "<version>" -m "<message>"
 git log
 git reflog (Shows the last 15 commands)
 git diff
