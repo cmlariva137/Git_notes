@@ -9,6 +9,7 @@ git checkout <branchName> (Switching between existing branches)
 git status
 git merge <branchName>
 git log
+git reflog (Shows the last 15 commands)
 git diff
 git reset --hard <optional id>
 ```
