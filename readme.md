@@ -1,5 +1,7 @@
 ## Git Notes:
 
+Highlight text and right click in terminal to copy 
+
 ```
 git init
 git add <fileName>
